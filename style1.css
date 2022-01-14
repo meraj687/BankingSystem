@@ -1,0 +1,7 @@
+html { 
+background: url("https://m.economictimes.com/thumb/msid-83626937,width-1200,height-900,resizemode-4,imgsize-522318/jk-bank.jpg") no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
